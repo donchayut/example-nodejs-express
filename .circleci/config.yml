@@ -38,4 +38,4 @@ jobs:
               --batch_size 1 --start_first \
               --auto_complete --timeout 600 \
               /
-      - run: echo Done
+      - run: echo DoneOK
